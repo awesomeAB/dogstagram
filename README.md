@@ -1,4 +1,4 @@
-# horizon
-Project: Horizon
+# instaClone
+An Instagram clone
 
 
