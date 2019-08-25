@@ -12,7 +12,7 @@ class Feed extends Component {
   render() {
     return (
       <FlatList
-        data={[1, 7, 9, 2, 4,6, 5, 8,6, 3, 12, 13, 14, 15]}
+        data={[1, 7, 9, 2, 15, 4, 6, 5, 8, 3, 12, 10, 13, 14]}
         keyExtractor={this.extractKey}
         renderItem={this.renderPost}
       />
