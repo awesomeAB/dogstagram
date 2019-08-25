@@ -9,12 +9,12 @@
 import React, {Fragment} from 'react';
 import {View} from 'react-native';
 
-import InstaClone from './src/InstaClone';
+import Dogstagram from './src/Dogstagram';
 
 const App = () => {
   return (
     <View style={{flex: 1}}>
-      <InstaClone />
+      <Dogstagram />
     </View>
   );
 };
