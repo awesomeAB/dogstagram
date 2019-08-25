@@ -1,4 +1,4 @@
-# instaClone
+# Dogstagram
 An Instagram clone
 
 
