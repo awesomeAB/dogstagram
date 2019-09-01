@@ -4,7 +4,7 @@ import {Text, FlatList} from 'react-native';
 
 class Feed extends Component {
   renderPost({item}) {
-    return <Post user={item%4}/>;
+    return <Post user={item % 4} />;
   }
   extractKey(item) {
     return item.toString();
