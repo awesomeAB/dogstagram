@@ -1,4 +1,4 @@
 # Dogstagram
-An Instagram clone
+An Instagram clone written in react-native for dog lovers. 
 
-
+![](demo.gif)
